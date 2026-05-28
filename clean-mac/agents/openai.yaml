@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Mac"
+  short_description: "Audit macOS storage and clean safe leftovers with confirmation."
+  default_prompt: "Audit this Mac for safe cleanup opportunities, group findings by risk, and ask before deleting anything."

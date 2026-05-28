@@ -1,6 +1,6 @@
-# Claude Skills — by KJR Labs
+# AI Skills — by KJR Labs
 
-A collection of Claude skills for developers, builders, and pharma professionals.
+A collection of reusable AI-agent skills for developers, builders, and pharma professionals.
 
 ## Skills
 
@@ -17,6 +17,13 @@ Generates a professional, GMP-compliant FMEA-based Quality Risk Assessment docum
 Covers all GAMP software categories (Cat 1, 3, 4, 5) and system types including LIMS, ERP, SCADA, MES, lab instruments, and custom in-house software. Includes a pre-built function library with typical failure modes and a complete regulatory reference set.
 
 **Scope:** GMP · GLP · GCP · 21 CFR Part 11 · EU Annex 11 · ICH Q9
+
+---
+
+### `clean-mac`
+Audits macOS storage and creates a confirmation-first cleanup plan. Finds rebuildable caches, app leftovers, AI/editor artifacts, Xcode/developer junk, screenshot locations, and personal-review folders before deleting anything.
+
+**Scope:** macOS cleanup · app leftovers · developer caches · AI tool artifacts · screenshots
 
 ---
 
