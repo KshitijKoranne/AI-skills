@@ -34,8 +34,8 @@ Download the `.skill` file from the [Releases](../../releases) page and upload i
 
 ### Claude Code (CLI)
 ```bash
-git clone https://github.com/KshitijKoranne/Claude-skills
-cp -r Claude-skills/<skill-name> ~/.claude/skills/
+git clone https://github.com/KshitijKoranne/AI-skills
+cp -r AI-skills/<skill-name> ~/.claude/skills/
 ```
 
 ---
