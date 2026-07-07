@@ -27,6 +27,13 @@ Audits macOS storage and creates a confirmation-first cleanup plan. Finds rebuil
 
 ---
 
+### `f5-opus`
+Makes Opus models (4.8+) operate as an extension of Claude Fable 5 — same judgment, design taste, audit rigor, recommendation style, and memory discipline. Routes trivially simple questions down to Sonnet to save cost.
+
+**Scope:** persona/decision-policy transfer · design anti-slop rules · code/doc auditing · Opus↔Sonnet routing
+
+---
+
 ## Installation
 
 ### Claude.ai (Web/Desktop)
