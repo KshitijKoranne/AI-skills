@@ -34,6 +34,27 @@ Makes Opus models (4.8+) operate as an extension of Claude Fable 5 — same judg
 
 ---
 
+### `design-references`
+Before building a site, landing page or UI, picks real design references (galleries, component libraries, animation and 3D sources) from a curated list by need. Reuse rules: open-source code can be used as-is with colors tweaked to the project; galleries are inspiration only.
+
+**Scope:** web design · UI components · animation · licence-aware reuse
+
+---
+
+### `mac-app-store-release`
+Ships a Tauri (or other non-Xcode) macOS app to the Mac App Store, and as a signed, notarized DMG for website download. Fill in your own Team ID, notarization key and contact details before use.
+
+**Scope:** Mac App Store · signing · notarization · App Store Connect metadata
+
+---
+
+### `higgsfield-api`
+Generates images and video with the Higgsfield API (Seedance, Soul and other models), or adds Higgsfield generation to a Python or TypeScript project. Includes a reusable CLI script.
+
+**Scope:** Higgsfield · image and video generation · Python · TypeScript
+
+---
+
 ## Installation
 
 ### Claude.ai (Web/Desktop)
