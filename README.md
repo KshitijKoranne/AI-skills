@@ -55,6 +55,27 @@ Generates images and video with the Higgsfield API (Seedance, Soul and other mod
 
 ---
 
+### `motion-film`
+Makes short motion-graphics videos (app ads, promos, launch teasers, explainer clips) as MP4 with synced sound, rendered from code.
+
+**Scope:** motion graphics · video rendering · sound sync
+
+---
+
+### `store-screenshots`
+Makes App Store, Mac App Store and Play Store marketing screenshots (framed, captioned, exact store sizes), plus optional app preview videos.
+
+**Scope:** App Store · Play Store · marketing screenshots · preview videos
+
+---
+
+### `vps-maintenance`
+Safe maintenance for a self-hosted VPS: update the panel, proxy, databases, services and OS; back up; remove unused apps and DNS; fix SSL and proxy errors, backup alerts and monitors.
+
+**Scope:** VPS · Coolify-style panels · backups · SSL · monitoring
+
+---
+
 ## Installation
 
 ### Claude.ai (Web/Desktop)
